@@ -1,0 +1,21 @@
+header{
+	background-color: rgb(176, 243, 243);
+	height: auto;
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	align-items: center;
+}
+
+ .header-logo img{
+
+}
+
+.header-content {
+	background-color: brown;
+	list-style: none;
+	flex: 0 1 300px;
+}
+
+.grow {
+}
